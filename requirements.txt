@@ -17,6 +17,7 @@ markdown
 yattag
 xpinyin
 pandas
+timm
 dict_hash
 python-slugify
 trimesh
