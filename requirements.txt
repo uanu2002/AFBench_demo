@@ -17,6 +17,9 @@ markdown
 yattag
 xpinyin
 pandas
+scipy
+aerosandbox
+pillow
 timm
 dict_hash
 python-slugify
